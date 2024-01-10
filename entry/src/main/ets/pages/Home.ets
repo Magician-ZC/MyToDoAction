@@ -262,7 +262,7 @@ struct FoodItem{
     .clip(new Rect({width:'100%',height:'100%',radius:6}))
     .onClick(()=>{
       router.pushUrl({
-        url:'pages/Detail',
+        url:'pages/FoodDetail',
         params:{
           foodInfo:this.food
         }
