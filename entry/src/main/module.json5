@@ -2,7 +2,7 @@
   "module": {
     "name": "entry",
     "type": "entry",
-    "description": "$string:module_desc",
+    "description": "target",
     "mainElement": "EntryAbility",
     "deviceTypes": [
       "phone",

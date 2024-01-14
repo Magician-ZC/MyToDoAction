@@ -4,6 +4,6 @@
     "pages/MainPage",
     "pages/Home",
     "pages/FoodDetail",
-    "pages/TaskPage"
+    "pages/TargetPage"
   ]
 }

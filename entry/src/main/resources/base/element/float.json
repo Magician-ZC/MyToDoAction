@@ -1,0 +1,12 @@
+{
+  "float": [
+    {
+      "name": "title_height",
+      "value": "32vp"
+    },
+    {
+      "name": "title_font_size",
+      "value": "24fp"
+    }
+  ]
+}

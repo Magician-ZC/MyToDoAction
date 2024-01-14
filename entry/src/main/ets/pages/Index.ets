@@ -32,7 +32,7 @@ struct Index {
         Button("点击进入任务的操作中心...")
           .onClick(()=>{
             router.pushUrl({
-              url:'pages/TaskPage'
+              url:'pages/TargetPage'
             })
           })
       }
